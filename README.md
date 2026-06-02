@@ -14,6 +14,7 @@
 
 End-to-end classification pipeline to **screen children for learning difficulties** using the 2024 National Health Interview Survey (NHIS). 36 models trained across 9 algorithms and 4 balancing strategies, with deterministic cross-validation and rigorous evaluation.
 
+[View Slides](presentation/Meena_Aryan_Nishad_Aman_Projectppt.pptx)
 ---
 
 ## Dataset
